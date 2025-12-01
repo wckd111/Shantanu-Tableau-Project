@@ -1,6 +1,6 @@
 # HR Attrition Analytics Dashboard (Tableau)
 
-![HR Attrition Analytics Dashboard](images/Hr-Dashboard.png)
+![HR Attrition Analytics Dashboard](Images/Hr-Dashboard.png)
 
 A Tableau dashboard designed to analyze workforce attrition, surface risk patterns, and help organisations make data-driven HR decisions.  
 This project demonstrates skills in data cleaning, KPI design, dashboard building, and analytical storytelling.
